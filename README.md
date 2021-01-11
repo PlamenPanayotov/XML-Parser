@@ -10,7 +10,7 @@ The application read XML files and insert them in database table.
 ```
 composer update
 ```
-The path to main folders with XML file and subfolders must be configure in config.ini file.
+The path to main folders with XML files and subfolders must be configure in config.ini file.
 The database must be configure in config.ini file.
 
 ## Use
